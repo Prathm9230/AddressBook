@@ -6,11 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0bffe708-607d-4fc2-a040-4f7b6d397446" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../.idea/java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/Addressbook/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/Addressbook/AddressBookMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/Addressbook/AddressBookMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/Addressbook/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/Addressbook/Contact.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
